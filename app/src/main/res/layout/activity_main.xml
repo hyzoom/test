@@ -11,7 +11,7 @@
     tools:context="com.hazem.test.MainActivity">
 
     <TextView
-        android:text="Hello World!"
+        android:text="Hello Hazem"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </RelativeLayout>
